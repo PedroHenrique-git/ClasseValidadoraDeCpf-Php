@@ -4,9 +4,9 @@
   Classe desenvolvida como exercício durante meus estudos sobre Php, mas que server como forma para validar cpfs em formulários diversos
 </p>
 
-<h1 align="left">
+<p align="left">
     <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">🔗 PhP</a>
-</h1>
+</p>
 
 <p align="left">
   Clonar projeto: git clone https://github.com/PedroHenrique-git/ClasseValidadoraDeCpf-Php.git
