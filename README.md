@@ -5,9 +5,9 @@
 </p>
 
 <h1 align="left">
-    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">🔗 JavaScript</a>
+    <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">🔗 PhP</a>
 </h1>
 
 <p align="left">
-  Clonar projeto: 
+  Clonar projeto: git clone https://github.com/PedroHenrique-git/ClasseValidadoraDeCpf-Php.git
 </p>
