@@ -1,7 +1,7 @@
-<h1 align="center">Classe para validar cpf</h1>
+<h1 align="center">Classe para validar cpf(versão em php)</h1>
 
 <p align="left">
-  Classe desenvolvida como exercício durante meus estudos sobre JavaScript, mas que server como forma para validar cpfs em formulários diversos
+  Classe desenvolvida como exercício durante meus estudos sobre Php, mas que server como forma para validar cpfs em formulários diversos
 </p>
 
 <h1 align="left">
