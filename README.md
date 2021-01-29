@@ -1,13 +1,16 @@
-<h1 align="center">Classe para validar cpf(versão em php)</h1>
+# Class to validate cpf (php version)
 
-<p align="left">
-  Classe desenvolvida como exercício durante meus estudos sobre Php, mas que server como forma para validar cpfs em formulários diversos
-</p>
+Class developed as an exercise during my Php studies, but which serves as a way to validate cpfs in different forms
 
-<p align="left">
-    <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">🔗 PhP</a>
-</p>
+## Getting Started
 
-<p align="left">
-  Clonar projeto: git clone https://github.com/PedroHenrique-git/ClasseValidadoraDeCpf-Php.git
-</p>
+Make a new instance of the class and pass the cpf you want to validate. Finally, call the "valida" method that will return true or false.
+
+## Built With
+
+* [PHP](https://www.php.net/manual/pt_BR/intro-whatis.php) 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
